@@ -1,0 +1,19 @@
+button
+{
+    height:40px;
+    width:40px;
+    margin-left:23px;
+    margin-top:15px;
+    background-color:#0e0357;
+    color:white;
+    border-style:solid;
+    border-color:#0e0357;
+    border-width:1px;
+    font-size:20px;
+    font-family:monospace;
+}
+#clear-butt-1
+{
+    align-self:center;
+    border-style:solid;
+}
